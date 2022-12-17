@@ -1,5 +1,6 @@
 {
   "name": "2022-devfest-react-codejam",
+  "homepage": "https://dev-yun.github.io/2022-devfest-react-codejam",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
