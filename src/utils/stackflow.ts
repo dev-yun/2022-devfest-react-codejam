@@ -19,3 +19,6 @@ export const { Stack, useFlow } = stackflow({
   ],
   initialActivity: () => 'MainPage',
 });
+
+// activite => 등록할 page들 등록
+// initialActivity => 초기 page
